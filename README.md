@@ -1,4 +1,5 @@
 Netflix Data Analysis: Cleaning, Analysis, and Visualization
+![netflix-netflix-logo](https://github.com/rajoo1oo1/Netflix-Movies-and-TV-Shows/assets/127012787/c650e8d1-58b8-48a8-940a-d3078df69dd8)
 
 Welcome to the Netflix Data Analysis project, a comprehensive exploration of Netflix's content catalog. In this project, I meticulously examined Netflix's raw data, employed rigorous analytical process to ensure accuracy and reliability. From data extraction, cleaning to visualization, every step I've performed with precision and attention to detail.
 
@@ -8,7 +9,7 @@ My approach involves a series of meticulous steps to derive meaningful insights 
 2.	Data Cleaning: Applied Rigorous cleaning procedures, addressing issues like duplicates, spelling errors, and inconsistent formats.
 3.	Exploratory Data Analysis (EDA): Employed EDA techniques to understand the data, identify patterns, and unveil trends. This includes statistical calculations, visualizations, and correlation analyses.
 4.	Data Preparation: Prepared The dataset for visualization, involving the creation of new variables and necessary data filtering.
-5.	Data Visualization: Utilized Excel to craft visually appealing charts and graphs that succinctly present the analysis findings![netflix-netflix-logo](https://github.com/rajoo1oo1/Netflix-Movies-and-TV-Shows/assets/127012787/f7463ddb-4346-4104-b4d6-f1c69424572d)
+5.	Data Visualization: Utilized Excel to craft visually appealing charts and graphs that succinctly present the analysis findings!
 
 
 Recommendations:
