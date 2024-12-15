@@ -9,7 +9,7 @@ My approach involves a series of meticulous steps to derive meaningful insights 
 2.	Data Cleaning: Applied Rigorous cleaning procedures, addressing issues like duplicates, spelling errors, and inconsistent formats.
 3.	Exploratory Data Analysis (EDA): Employed EDA techniques to understand the data, identify patterns, and unveil trends. This includes statistical calculations, visualizations, and correlation analyses.
 4.	Data Preparation: Prepared The dataset for visualization, involving the creation of new variables and necessary data filtering.
-5.	Data Visualization: Utilized Excel to craft visually appealing charts and graphs that succinctly present the analysis findings!
+5.	Data Visualization: Utilized Power BI to craft visually appealing charts and graphs that succinctly present the analysis findings!
 
 
 Recommendations:
